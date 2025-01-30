@@ -3,11 +3,9 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-     
-    <label for="Firstname"><b>Firstname</b></label>
-    <input type="text" placeholder="Firstname" name="Firstname" id="Firstname" required>    
-    <label for="Lastname"><b>Lastname</b></label>
-    <input type="text" placeholder="Lastname" name="Lastname" id="Lastname" required>
+       
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Name" name="Name" id="Name" required>
     <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
